@@ -112,8 +112,31 @@ header {
   background: #FBFBFF;
 }
 
+.work-btn {
+  color: #040F16;
+  background: #FBFBFF;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 4px;
+  display: inline-block;
+}
 
+.portfolio-btn {
+  color: #FBFBFF;
+  background: #040F16;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 4px;
+  display: inline-block;
+}
 
+.work-btn:hover {
+  background: #A0A0A3;
+}
+
+.portfolio-btn:hover {
+  background: #313A40;
+}
 /* Education
 ------------------------------------*/
 .education {
