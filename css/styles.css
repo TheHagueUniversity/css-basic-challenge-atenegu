@@ -43,7 +43,7 @@ h2 {
   font-size: 45px;
 }
 h1, h2 {
-  font-family: 'Lexend Exa', cursive;
+  font-family: 'Caveat', cursive;
   font-weight: 400;
   margin: 0;
 }
@@ -76,6 +76,15 @@ h3 {
 header {
   background: #040F16;
   color: #01BAEF;
+  font-family: 'Lexend Exa', sans-serif;
+}
+
+header h1 {
+    font-family: 'Lexend Exa', sans-serif;
+}
+
+header h2 {
+    font-family: 'Lexend Exa', sans-serif;
 }
 
 
